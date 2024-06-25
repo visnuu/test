@@ -28,7 +28,7 @@ function getTotalSupply() {
 }
 
 
-mintNFT("Lund Sharma", "straight", "Black", "Gold");
+mintNFT("vishnu Sharma", "straight", "Black", "Gold");
 mintNFT("Sam", "Straight", "Purple", "Shiny");
 mintNFT("Prince", "Curly", "White", "silver");
 mintNFT("Ansh", "Bald", "Red", "Copper");
